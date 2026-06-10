@@ -1,5 +1,6 @@
 import { type ReactNode } from "react";
 import { Bell, Menu } from "lucide-react";
+import { Toaster } from "@/components/ui/sonner";
 import { AppSidebar } from "./app-sidebar";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 
@@ -31,6 +32,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           <main className="flex-1 overflow-auto p-4 lg:p-6">{children}</main>
         </div>
       </div>
+      <Toaster position="bottom-right" />
     </SidebarProvider>
   );
 }
