@@ -1,0 +1,23 @@
+# AI Workplace Productivity Assistant
+
+> AI-powered tools to help professionals automate and streamline workplace tasks.
+
+## Pages
+
+- [Dashboard](/): Overview of all productivity tools with quick access to each module.
+- [Smart Email Generator](/email): Generate professional email drafts based on context, tone, and recipient.
+- [Meeting Notes Summarizer](/meeting): Summarize meeting transcripts with key decisions and action items.
+- [AI Task Planner](/planner): Create prioritized daily, weekly, or monthly task schedules.
+- [Research Assistant](/research): Research topics and compile structured summaries with insights.
+- [AI Chatbot](/chat): Conversational AI assistant for workplace productivity queries.
+
+## Features
+
+- Generate emails in formal, casual, or persuasive tones
+- Extract action items and deadlines from meeting transcripts
+- Create prioritized task schedules with productivity tips
+- Conduct AI-powered research with structured findings
+- Chat with an AI assistant for general workplace help
+- All AI outputs are editable and copyable
+- No account required — data stored locally in your browser
+- Responsible AI disclaimer prominently displayed
