@@ -73,7 +73,7 @@ function TaskPlanner() {
       result.overview,
       "",
       ...result.schedule.flatMap((s) => [
-        `${s.timeBlock}:`
+        `${s.timeBlock}:`,
         ...s.tasks.map(
           (t) => `  - ${t.title} (${t.priority})${t.duration ? ` [${t.duration}]` : ""}`,
         ),
